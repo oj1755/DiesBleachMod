@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " 1",
+    "2 "
+  ],
+  "key": {
+    "1": {
+      "item": "minecraft:brown_bed"
+    },
+    "2": {
+      "item": "minecraft:redstone_ore"
+    }
+  },
+  "result": {
+    "item": "minecraft:allium",
+    "count": 1
+  }
+}

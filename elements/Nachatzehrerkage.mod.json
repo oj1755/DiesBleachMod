@@ -1,0 +1,21 @@
+{
+  "_fv": 33,
+  "_type": "particle",
+  "definition": {
+    "texture": "nachatzehrerp.png",
+    "animate": true,
+    "frameDuration": 5,
+    "width": 0.4,
+    "height": 0.4,
+    "scale": 0.30000000000000004,
+    "speedFactor": 0.1,
+    "gravity": 0.0,
+    "maxAge": 30,
+    "maxAgeDiff": 50,
+    "angularVelocity": 0.0,
+    "angularAcceleration": 0.03,
+    "canCollide": true,
+    "alwaysShow": true,
+    "renderType": "OPAQUE"
+  }
+}

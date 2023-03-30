@@ -1,0 +1,20 @@
+{
+  "_fv": 33,
+  "_type": "potioneffect",
+  "definition": {
+    "effectName": "shatei",
+    "icon": "mahoujinred.png",
+    "color": {
+      "value": -65485,
+      "falpha": 0.0
+    },
+    "isInstant": true,
+    "isBad": false,
+    "isBenefitical": false,
+    "renderStatusInInventory": true,
+    "renderStatusInHUD": false,
+    "onStarted": {
+      "name": "BakuhamahouposiyonnoXiaoGuogaKaiShiShiYongsaretatoki"
+    }
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "1": "mo_fa_zhen_chi_",
+        "missing": "mo_fa_zhen_chi_"
+      },
+      "name": "default"
+    }
+  }
+}
